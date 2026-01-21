@@ -1,4 +1,4 @@
-# Summaire - AI-Powered Summary Generator
+l# Summaire - AI-Powered Summary Generator
 
 Summaire is a modern, AI-based summary generator application that allows users to upload documents and get concise, structured summaries with section-wise breakdowns. Built with Next.js, TypeScript, and modern UI practices, Summaire is designed for clarity, speed, and scalability.
 
@@ -29,7 +29,7 @@ Summaire is a modern, AI-based summary generator application that allows users t
 -npm or yarn
 
 Installation:
--git clone https://github.com/your-username/summaire.git
+-git clone https://github.com/farazz23/summaire.git
 -cd summaire
 -npm install
 
